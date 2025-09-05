@@ -1,5 +1,5 @@
 import { useState } from "react";
-import avatar from "../assets/images/avatar.png";
+import avatar from "../assets/images/new-avatar.png";
 import resume from "../assets/resume/Nguyen-Van-Hau_Frontend-Developer.pdf";
 import { AnimatePresence, motion } from "framer-motion";
 import { FaArrowDown } from "react-icons/fa";
