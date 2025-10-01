@@ -9,6 +9,7 @@ import {
   BiLogoTypescript,
 } from "react-icons/bi";
 import { motion } from "framer-motion";
+import { SiExpress, SiMongodb, SiNextdotjs, SiMui } from "react-icons/si";
 
 const variants = {
   hidden: { opacity: 0, y: 50 },
@@ -21,9 +22,13 @@ const icons = [
   { Icon: BiLogoJavascript, color: "text-yellow-400", name: "JavaScript" },
   { Icon: BiLogoTypescript, color: "text-blue-500", name: "TypeScript" },
   { Icon: BiLogoTailwindCss, color: "text-sky-400", name: "Tailwind CSS" },
+  { Icon: SiMui, color: "text-blue-600", name: "Material UI" },
   { Icon: BiLogoReact, color: "text-cyan-400", name: "React" },
   { Icon: BiLogoRedux, color: "text-purple-600", name: "Redux" },
+  { Icon: SiNextdotjs, color: "text-white", name: "Next.js" },
   { Icon: BiLogoNodejs, color: "text-green-500", name: "Node.js" },
+  { Icon: SiExpress, color: "text-gray-300", name: "Express" },
+  { Icon: SiMongodb, color: "text-green-600", name: "MongoDB" },
 ];
 
 const Tech = () => {
