@@ -2,12 +2,21 @@ import images from "../assets/images";
 
 const projectsData = [
   {
+    image: images.project6,
+    title: "MojiChat",
+    description:
+      "A full-stack real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js). The application enables seamless real-time communication with a modern, user-friendly interface, and incorporates a secure authentication system based on Access Token and Refresh Token mechanisms.",
+    technologies: ["React", "Typescript", "Express", "MongoDB", "Socket.io"],
+    demoUrl: "https://moji-chat-mern.vercel.app/",
+    githubUrl: "https://github.com/haunguyen79/MojiChat-MERN",
+  },
+  {
     image: images.project1,
     title: "Movie App",
     description:
-      "Developed a movie website with a visually appealing and responsive design for both desktop and mobile users.",
-    technologies: ["Tailwind CSS", "React"],
-    demoUrl: "https://movie-app-test3.vercel.app/",
+      "A Single Page Application (SPA) web app that allows users to explore, search, and view detailed information about movies and TV shows. The data is integrated from The Movie Database API (TMDb) — one of the largest movie databases in the world. ",
+    technologies: ["React", "Tailwind CSS", "TMDb"],
+    demoUrl: "https://movie-app-offical.vercel.app/",
     githubUrl: "https://github.com/haunguyen79/Movie-App",
   },
   {
@@ -15,7 +24,7 @@ const projectsData = [
     title: "TodoX MERN",
     description:
       "A task management app built with the MERN Stack, styled with Tailwind CSS and shadcn/ui for a modern, responsive UI. Features include CRUD operations, task filtering (by status/date), pagination and statistics.",
-    technologies: ["Tailwind CSS", "React", "NodeJS", "Express", "MongoDB"],
+    technologies: ["React", "Tailwind CSS", "NodeJS", "Express", "MongoDB"],
     demoUrl: "https://todox-mern.onrender.com/",
     githubUrl: "https://github.com/haunguyen79/TodoX-MERN",
   },
@@ -46,7 +55,6 @@ const projectsData = [
     demoUrl: "https://calculator-app-eight-swart.vercel.app/",
     githubUrl: "https://github.com/haunguyen79/Calculator-App",
   },
-
 ];
 
 export default projectsData;
