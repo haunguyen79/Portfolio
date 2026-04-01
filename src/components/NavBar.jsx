@@ -5,6 +5,7 @@ import { BsFacebook, BsGithub, BsLinkedin, BsYoutube } from "react-icons/bs";
 const menuItems = [
   { label: "Home", href: "#home" },
   { label: "Tech", href: "#tech" },
+  { label: "Experience", href: "#experiences" },
   { label: "Project", href: "#project" },
   { label: "Contact", href: "#contact" },
 ];

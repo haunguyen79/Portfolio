@@ -1,4 +1,5 @@
 import Contact from "./components/Contact";
+import Experiences from "./components/Experiences";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
@@ -16,6 +17,7 @@ function App() {
         <NavBar />
         <Hero />
         <Tech />
+        <Experiences />
         <Projects />
         <Contact />
         <Footer />

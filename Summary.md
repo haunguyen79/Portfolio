@@ -1,0 +1,6 @@
+<!-- I am a Fullstack Developer with hands-on experience building modern, high-performance web applications across both frontend and backend. I specialize in React, Next.js, and Svelte, with strong foundations in JavaScript (ES6+), TypeScript, HTML5, and CSS3.
+On the frontend, I work with technologies such as Tailwind CSS, Material UI, Ant Design, and Shadcn/ui, combined with state management solutions like Redux and Zustand to build scalable and maintainable user interfaces.
+On the backend, I develop APIs using Node.js and Express.js, and work with databases including MongoDB, PostgreSQL, SQL Server, and Supabase, focusing on performance, scalability, and data consistency.
+I also have experience with Docker, along with tools like Git, GitHub, GitLab, Postman, Swagger, Vercel, and Render for development, testing, and deployment workflows.
+I’m passionate about crafting applications with excellent user experience, optimized performance, and scalable architecture. My work emphasizes clean UI/UX, smooth interactions, and responsive design across devices.
+With a growth mindset and strong teamwork skills, I continuously learn, explore new technologies, and improve best practices to become a better engineer. -->
