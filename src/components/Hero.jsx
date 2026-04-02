@@ -1,6 +1,6 @@
 import { useState } from "react";
 import avatar from "../assets/images/new-avatar.png";
-import resume from "../assets/resume/Nguyen-Van-Hau_Fullstack-Developer-v2.pdf";
+import resume from "../assets/resume/Nguyen-Van-Hau_Fullstack-Developer.pdf";
 import { AnimatePresence, motion } from "framer-motion";
 import { FaArrowDown } from "react-icons/fa";
 import { MdExpandLess, MdExpandMore } from "react-icons/md";
